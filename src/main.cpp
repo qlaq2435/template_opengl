@@ -1,7 +1,7 @@
-#include <GLFW/glfw3.h>
 #include <glad/glad.h>
 
 #include <Eigen/Eigen>
+#include <GLFW/glfw3.h>
 
 // Standard Headers
 #include <cstdio>
