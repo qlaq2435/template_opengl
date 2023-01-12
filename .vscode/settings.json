@@ -1,9 +1,4 @@
 {
-    "editor.fontLigatures": true,
-    "editor.fontFamily": "'Fira Code',Consolas, 'Sarasa Mono SC' ,'Courier New', monospace",
-    "editor.fontSize": 14,
-    "editor.formatOnSave": true,
-    "editor.stickyScroll.enabled": true,
     "cmake.buildDirectory": "${workspaceFolder}/build",
     "cmake.buildBeforeRun": true,
     "cmake.autoSelectActiveFolder": true,
